@@ -46,8 +46,8 @@ The dataset used should be a CSV file with two columns:
 ## Example Prediction
 Input:
 
-    "Congratulations! You have won a free trip to the Bahamas. Click the link below to claim your prize!"
+    "XXXMobileMovieClub: To use your credit, click the WAP link in the next txt message or click here>> http://wap. xxxmobilemovieclub.com?n=QJKGIGHJJGCBL"
 
 Output:
     
-    Spam
+    Spam Mail
